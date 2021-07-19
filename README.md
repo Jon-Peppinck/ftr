@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# TDD React Web App - Fibonacci Algorithm with Stopwatch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The code has been written using a TDD approach. It is clean, reusable, reliable, and scalable. The project is setup such that it:
+
+1. Efficiently determines if a number is Fibonacci or not
+2. Efficiently stores and sorts entered numbers by frequency
+3. Determines at what time the entered numbers should be displayed
 
 ## Available Scripts
 

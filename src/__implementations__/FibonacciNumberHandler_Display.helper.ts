@@ -1,4 +1,4 @@
-import { ObjectKeysAndFrequency } from '../__implementations__/models/ObjectKeysAndFrequency.interface';
+import { ObjectKeysAndFrequency } from './models/ObjectKeysAndFrequency.interface';
 
 export const insertNumberByKeyWithFrequencyValue = (
   x: number,
